@@ -8,7 +8,7 @@
       "preview": "vite preview --port 5050",
       "lint": "eslint . -c .eslintrc.js --fix --ext .ts,.js,.vue,.tsx,.jsx",
       "build:icons": "node src/@iconify/build-icons.js",
-      "postinstall": "npm run build:icons"
+      
    },
    "dependencies": {
       "@casl/ability": "^6.8.1",
