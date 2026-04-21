@@ -1,0 +1,1 @@
+import{It as e,bt as t,wt as n}from"./VIcon-pfIsAh_9.js";import{n as r}from"./index-CsF-9Ys0.js";var i=t({setup(){let t=e(`router-view`),{injectSkinClasses:i}=r();return i(),()=>n(`div`,{class:`layout-wrapper layout-blank`},n(t))}});export{i as default};

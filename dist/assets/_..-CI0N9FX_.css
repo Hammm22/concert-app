@@ -1,0 +1,1 @@
+.layout-blank .misc-wrapper{min-block-size:calc(var(--vh,1vh) * 100);flex-direction:column;justify-content:center;align-items:center;padding:1.25rem;display:flex}.layout-blank .misc-avatar{z-index:1}.layout-blank .misc-footer-img{inline-size:100%;position:absolute;inset-block-end:0}
